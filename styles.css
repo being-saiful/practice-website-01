@@ -1,0 +1,12 @@
+/* common styles */
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* header styles */
+
+.banner-img {
+    width: 100%;
+    z-index: 0;
+}
